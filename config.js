@@ -23,7 +23,7 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
+    /*{
       text: '项目主页',
       url: 'https://github.com/geekyouth/uptime-status'
     },
@@ -34,6 +34,6 @@ window.Config = {
     {
       text: '博客',
       url: 'https://java666.cn'
-    }
+    */}
   ]
 };
