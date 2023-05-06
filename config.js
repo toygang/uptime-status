@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---极客青年',
+  SiteName: '站点状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
   ApiKeys: [
-    'ur894242-90d1eb90acc82624bcaed27a'
+    'ur2121787-7843fa8dd67407d3dc5f6317'
   ],
 
   // 是否显示监测站点的链接
@@ -31,9 +31,9 @@ window.Config = {
       text: 'GitHub',
       url: 'https://github.com/geekyouth/'
     },
-    {
+    //{
       text: '博客',
       url: 'https://java666.cn'
-    }
+    //}
   ]
 };
