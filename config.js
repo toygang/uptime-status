@@ -31,9 +31,9 @@ window.Config = {
       text: 'GitHub',
       url: 'https://github.com/geekyouth/'
     },
-    //{
+    {
       text: '博客',
       url: 'https://java666.cn'
-    //}
+    }
   ]
 };
